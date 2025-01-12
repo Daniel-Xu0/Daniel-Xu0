@@ -23,18 +23,17 @@ I'm passionate about leveraging data to drive actionable insights and solve real
 - Statistical Modeling & Predictive Analytics
 - Data Visualization & Storytelling
 - ETL Development & Data Pipelines
-- Optimization & Simulation Projects
 - Reinforcement Learning for Real-World Applications
 
 ---
 
 ## 🌱 What I'm Currently Doing
 - Improving upon my DBT and Looker skills
-- Learning how to incorporate OpenAI into applications
+- Learning how to incorporate ChatGPT & OpenAI into real-world applications
 
 ---
 
-## 🤝 Let's Connect
+## 🤝 Let's Connect!
 - **LinkedIn:** [My Profile!](www.linkedin.com/in/daniel-xu-0)
 - **GitHub:** You're already here!
 - **Email:** danielxu0@yahoo.com
