@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Daniel!
 
-## 🎓 **Data Science + Business Analytics Graduate**  
-Khoury College @Northeastern University
+## 🎓 **Data Science & Business Analytics Graduate**  
+Northeastern University's Khoury College of Computer Sciences
 
 ---
 
