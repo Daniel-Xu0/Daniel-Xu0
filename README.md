@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Daniel!
 
-a data science enthusiast and recent grad passionate about data analytics, machine learning, and building cool projects. Welcome to my GitHub profile!
+I'm a data science enthusiast and recent grad from Northeastern University 🐾 passionate about data analytics, machine learning, and building cool projects. Welcome to my GitHub profile!
 
 <p align="center">
   <img src="assets/GitHub PFP.jpeg" alt="It's me!" width="400">
