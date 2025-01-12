@@ -3,7 +3,7 @@
 I'm Daniel, a data science enthusiast passionate about data analytics, machine learning, and building cool projects. Welcome to my GitHub profile!
 
 <p align="center">
-  <img src="assets/pixel_art.png" alt="Pixel Art of a Computer Science Worker" width="300">
+  <img src="assets/GitHub PFP" alt="It's me!" width="300">
 </p>
 
 ## 🎓 **Data Science & Business Analytics Graduate**  
